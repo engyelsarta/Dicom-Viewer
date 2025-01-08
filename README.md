@@ -68,12 +68,18 @@ The application was built using Python and PyQt5 for the graphical interface, al
 ### Multi-frame Playback
 For M2D files, the frames are played automatically. Use the playback area to observe changes across frames.
 
+![Multi-frame Playback Demo](Screenshots/M2D_GIF.gif)
+
 ### Tile View
 Slices of 3D DICOM files are shown in a grid. Scroll to explore all slices.
+
+![Alt Text](Screenshots/Main_UI.png)
 
 ### View Tags
 1. Click **Tags** to open the DICOM Tags Viewer.  
 2. Use the search bar to filter tags by name.
+
+
 
 ### Anonymization
 1. Click **Anonymize** and enter a custom prefix.  
@@ -84,16 +90,6 @@ Click **Main Elements** to display key attributes of the loaded DICOM file.
 
 ---
 
-## Screenshots
-
-### Multi-frame Playback
-![Multi-frame Playback Demo](Screenshots/M2D_GIF.gif)
-
-### Tile View
-![Alt Text](Screenshots/MainUI.png)
-![Tile View Feature](Screenshots/MainUI.png)
-
----
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
