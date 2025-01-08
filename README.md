@@ -79,7 +79,7 @@ Slices of 3D DICOM files are shown in a grid. Scroll to explore all slices.
 1. Click **Tags** to open the DICOM Tags Viewer.  
 2. Use the search bar to filter tags by name.
 
-
+![Alt Text](Screenshots/Tags_Window.png)
 
 ### Anonymization
 1. Click **Anonymize** and enter a custom prefix.  
