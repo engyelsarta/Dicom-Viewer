@@ -96,11 +96,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## Contributing
-Contributions are welcome! Feel free to fork the repository and submit a pull request.
-
----
-
 ## Acknowledgments
 - **pydicom**: For working with DICOM files in Python.  
 - **PyQt5**: For creating the user interface.
